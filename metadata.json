@@ -1,0 +1,6 @@
+{
+  "name": "Forno d'Ouro - Pastelaria Saudável de Taça Única",
+  "description": "Landing page de altíssima conversão (CRO) no estilo Apple para o sistema de pastelaria saudável Forno d'Ouro em Portugal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
